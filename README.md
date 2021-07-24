@@ -1,6 +1,9 @@
 # AntPy
 My Python extensions
 
+# Install
+
+pip install antpy
 
 # Methods
 
